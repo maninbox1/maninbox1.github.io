@@ -1,1 +1,2 @@
-classic solitaire klondike app
+contact details 
+pacmanvlad@gmail.com
