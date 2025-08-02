@@ -1,2 +1,2 @@
 contact details 
-pacmanvlad@gmail.com
+mikemandev1@gmail.com
